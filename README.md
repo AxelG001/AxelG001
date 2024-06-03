@@ -4,8 +4,8 @@ Je suis un développeur web passionné par **Three.js** et **React**. J'aime cr�
 
 ## 🚀 Projets notables
 
-- **[Nom du projet 1](lien_vers_le_projet)**: Description rapide du projet. Utilise Three.js et React pour créer des visualisations 3D étonnantes.
-- **[Nom du projet 2](lien_vers_le_projet)**: Une autre description de projet. Ce projet utilise également Three.js et a été conçu pour être performant et intuitif.
+- **[Mon Portfolio](https://axel-genin-portfolio.vercel.app/)**: Portfolio réaliser avec Next.js , Typescript , Tailwind.css et Three.js
+- **[Shirt Customiser 3D](https://three-js-ai-shirt.vercel.app/)**: Site 3D réaliser avec React Three Fiber
 
 ## 🛠️ Compétences techniques
 
@@ -17,13 +17,13 @@ Je suis un développeur web passionné par **Three.js** et **React**. J'aime cr�
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AxelG001&show_icons=true&theme=radical)
 
 ## 📫 Comment me contacter
 
-- LinkedIn: [Ton Nom](lien_linkedin)
-- Twitter: [@ton_nom_utilisateur](lien_twitter)
-- Email: ton.email@example.com
+- LinkedIn: [Axel Genin](https://www.linkedin.com/in/axel-genin-b8499b242/)
+
+- Email: axelgenin123@gmail.com
 
 ## 🎉 Un petit mot personnel
 
