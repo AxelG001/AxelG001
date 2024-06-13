@@ -29,10 +29,6 @@ Je suis un développeur web passionné par **Three.js** et **React**. J'aime cr�
 
 J'adore apprendre de nouvelles technologies et travailler sur des projets innovants. Si vous avez une idée de collaboration ou simplement envie de discuter, n'hésitez pas à me contacter !
 
-## 🎨 Démo interactive
-
-Voici une petite démo interactive de mon travail avec Three.js :
-![Demo Three.js](url_de_ton_gif_ou_image_interactive)
 
 ---
 
