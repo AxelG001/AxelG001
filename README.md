@@ -1,4 +1,4 @@
-# Salut, je suis [Ton Nom] 👋
+# Salut, je suis Axel 👋
 
 Je suis un développeur web passionné par **Three.js** et **React**. J'aime créer des expériences web interactives et immersives. Bienvenue sur mon profil GitHub !
 
